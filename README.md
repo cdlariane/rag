@@ -88,7 +88,7 @@ Gruppe eigene Uniwebsite:
 - Ausprobieren dort mit dem Prototypen: hier wurden alle Links auf der Website automatisch auch mitgescraped
 
 Gruppe englisch vs. deutsch:
-- Ergebnis: auf englisch funktioniert es deutlich besser als auf deutsch
+- Ergebnis: auf englisch funktioniert es deutlich besser als auf deutsch 
 
 
   
